@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "425473318933",
+    "firebase_url": "https://artistpedia-8cfba.firebaseio.com",
+    "project_id": "artistpedia-8cfba",
+    "storage_bucket": "artistpedia-8cfba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425473318933:android:2a586bc3465a4282a2ee1c",
+        "android_client_info": {
+          "package_name": "com.example.artistpedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425473318933-dqc0ko4v4v43lvt987u422vbllhdu5kj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCreArvCNarroSHDoqsG8re-rtddO1FvdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425473318933-dqc0ko4v4v43lvt987u422vbllhdu5kj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
